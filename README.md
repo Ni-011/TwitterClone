@@ -1,5 +1,5 @@
-# This is Basic Clone of Tiwtter UI made with React.js and uses Firebase for backend, styling has been done with plain CSS
-# I have just made the basic text tweet functionality but if you want a challenge I will leave other functionalities for you to contribute
+This is Basic Clone of Tiwtter UI made with React.js and uses Firebase for backend, styling has been done with plain CSS
+I have just made the basic text tweet functionality but if you want a challenge I will leave other functionalities for you to contribute
 # Some Ideas are:
 - Make the tweet Like button turn Red with animation on clicking.
 - Add image, video etc. icons below the tweet Texarea
